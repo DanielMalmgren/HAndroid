@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HAndroid</string>
+    <string name="devices">Enheter</string>
+    <string name="groups">Grupper</string>
+    <string name="scenarios">Scenarion</string>
+    <string name="sensors">Sensorer</string>
+    <string name="action_settings">Inställningar</string>
+    <string name="on">på</string>
+    <string name="off">av</string>
+    <string name="ha_url">Adress till HomeAutomation</string>
+    <string name="username">Användarnamn</string>
+    <string name="password">Lösenord</string>
+    <string name="no_data_error">Hittade inga data. Vänligen kontrollera dina inställningar!</string>
+    <string name="please_wait">Var god vänta...</string>
+    <string name="action_update">Uppdatera</string>
+    <string name="update_interval">Statusuppdateringsintervall</string>
+    <string name="interval_10seconds">10 sekunder</string>
+    <string name="interval_30seconds">30 sekunder</string>
+    <string name="interval_1minute">1 minut</string>
+    <string name="interval_5minutes">5 minuter</string>
+    <string name="interval_10minutes">10 minuter</string>
+    <string name="interval_never">Aldrig</string>
+</resources>

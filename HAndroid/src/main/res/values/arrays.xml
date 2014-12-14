@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="updateInterval">
+        <item name="10seconds">@string/interval_10seconds</item>
+        <item name="30seconds">@string/interval_30seconds</item>
+        <item name="1minute">@string/interval_1minute</item>
+        <item name="5minutes">@string/interval_5minutes</item>
+        <item name="10minutes">@string/interval_10minutes</item>
+        <item name="never">@string/interval_never</item>
+    </string-array>
+
+    <string-array name="updateIntervalValues">
+        <item name="10seconds">10000</item>
+        <item name="30seconds">30000</item>
+        <item name="1minute">60000</item>
+        <item name="5minutes">300000</item>
+        <item name="10minutes">600000</item>
+        <item name="never">0</item>
+    </string-array>
+
+</resources>

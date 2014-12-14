@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:key="ha_url"
+        android:title="@string/ha_url"
+        android:inputType="textUri"
+        android:defaultValue="http://" />
+    <EditTextPreference
+        android:key="username"
+        android:title="@string/username"
+        android:defaultValue="" />
+    <EditTextPreference
+        android:key="password"
+        android:title="@string/password"
+        android:inputType="textPassword"
+        android:defaultValue="" />
+    <ListPreference
+        android:key="update_interval"
+        android:title="@string/update_interval"
+        android:defaultValue="60000"
+        android:entries="@array/updateInterval"
+        android:entryValues="@array/updateIntervalValues" />
+</PreferenceScreen>
