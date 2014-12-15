@@ -13,18 +13,18 @@ Oh, and HAndroid might not be the final name. We'll see about that...
 /Daniel Malmgren
 daniel@kolefors.se
 
-Notes about app settings:
-URL - Needs to be full url including http/https
-username/password - If any of those are empty, local login is used instead (works well at home).
+Notes about app settings:<br>
+URL - Needs to be full url including http/https<br>
+username/password - If any of those are empty, local login is used instead (works well at home).<br>
 
-Todo:
-More error checking
-Page for macros?
-Maybe a widget?
-Show upcoming schedule stuff and maybe also latest stuff in log
-Maybe houseplan? Not very useful on phone, but maybe on tablet.
+Todo:<br>
+More error checking<br>
+Page for macros?<br>
+Maybe a widget?<br>
+Show upcoming schedule stuff and maybe also latest stuff in log<br>
+Maybe houseplan? Not very useful on phone, but maybe on tablet.<br>
 
-Changelog
+Changelog<br>
 0.6 (2014-02-07)
 Added page with sensor readings
 Try avoiding white text on white background, it's hard to read
